@@ -123,6 +123,7 @@ GameObject:
   - component: {fileID: 1417722753332222129}
   - component: {fileID: 4946488783759766084}
   - component: {fileID: 1187267978}
+  - component: {fileID: 974882938}
   m_Layer: 0
   m_Name: Charlie
   m_TagString: Untagged
@@ -179,3 +180,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   feetPos: {fileID: 1404783884}
   impactEffectPrefab: {fileID: 6300621311078627450, guid: 8dde15fb2b7c0e14fa35ba37f9a231cd, type: 3}
+--- !u!114 &974882938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8733171071288009540}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18a2fbdd6d3b05547a605b35d41f9930, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkSpeed: 1.99

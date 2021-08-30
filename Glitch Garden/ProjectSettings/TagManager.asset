@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: SceneryForeground
+    uniqueID: 616032139
+    locked: 0
   - name: FrontParticles
     uniqueID: 594795993
     locked: 0
